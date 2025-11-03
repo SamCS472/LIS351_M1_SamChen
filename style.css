@@ -1,0 +1,36 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: #f0f8ff;
+    margin: 20px;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    display: flex;
+    gap: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+header h1 {
+    color: #004080;
+}
+
+header h2 {
+    color: #0066cc;
+}
+
+main p {
+    font-size: 16px;
+}
+
+img {
+    display: block;
+    margin: 10px 0;
+}
